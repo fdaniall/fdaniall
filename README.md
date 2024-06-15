@@ -1,4 +1,4 @@
-# 🌟 Personal Website of [Fakhri Danial] 🌟
+# 🌟 Personal Website of Fakhri Danial 🌟
 
 Welcome to the repository of my personal website! This site is a showcase of my portfolio, blog, and other projects. Dive in to explore more about my work, my thoughts, and my journey.
 
@@ -25,4 +25,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/fdaniall)
 - **Instagram:** [Follow me on Instagram](https://instagram.com/fdaniall)
 
-Made with ❤️ by [Fakhri Danial]
+Made with ❤️ by Fakhri Danial
