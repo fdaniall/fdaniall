@@ -2,8 +2,6 @@
 
 Welcome to the repository of my personal website! This site is a showcase of my portfolio, blog, and other projects. Dive in to explore more about my work, my thoughts, and my journey.
 
-![Website Preview](https://via.placeholder.com/800x400.png?text=Website+Preview)
-
 ## 🎨 Features
 
 - **💻 Responsive Design:** Enjoy a seamless experience on any device.
@@ -23,8 +21,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [twitter.com/your-profile](https://twitter.com/your-profile)
+- **Email:** [fakhridanial29@.com](mailto:fakhridanial29.com)
+- **LinkedIn:** [linkedin.com/in/fdaniall](https://www.linkedin.com/in/fdaniall)
+- **Instagram:** [instagram.com/fdaniall](https://instagram.com/fdaniall)
 
 Made with ❤️ by [Fakhri Danial]
