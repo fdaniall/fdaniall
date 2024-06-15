@@ -2,14 +2,6 @@
 
 Welcome to the repository of my latest projects! This repository serves as a showcase of my work, including personal projects, practice exercises, and more. Dive in to explore my code, methodologies, and what I've been working on.
 
-## 🎨 Features
-
-- **💻 Responsive Design:** Enjoy a seamless experience on any device.
-- **🚀 SPA (Single Page Application):** Smooth navigation without page reloads.
-- **📈 SEO Optimized:** Boost your site's visibility and ranking.
-- **🌙 Dark Mode:** Eye-friendly dark mode for better readability.
-- **📬 Contact Form:** Get in touch with me easily.
-
 ## 🛠️ Technologies Used
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
