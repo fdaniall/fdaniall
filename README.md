@@ -21,8 +21,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-- **Email:** [fakhridanial29@.com](mailto:fakhridanial29.com)
-- **LinkedIn:** [linkedin.com/in/fdaniall](https://www.linkedin.com/in/fdaniall)
-- **Instagram:** [instagram.com/fdaniall](https://instagram.com/fdaniall)
+- **Email:** [Click here to email me](mailto:fakhridanial29@gmail.com)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/fdaniall)
+- **Instagram:** [Follow me on Instagram](https://instagram.com/fdaniall)
 
 Made with ❤️ by [Fakhri Danial]
