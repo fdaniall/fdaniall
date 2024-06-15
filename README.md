@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🌟 Personal Website of [Fakhri Danial] 🌟
 
-<!--
-**fdaniall/fdaniall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the repository of my personal website! This site is a showcase of my portfolio, blog, and other projects. Dive in to explore more about my work, my thoughts, and my journey.
 
-Here are some ideas to get you started:
+![Website Preview](https://via.placeholder.com/800x400.png?text=Website+Preview)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Features
+
+- **💻 Responsive Design:** Enjoy a seamless experience on any device.
+- **🚀 SPA (Single Page Application):** Smooth navigation without page reloads.
+- **📈 SEO Optimized:** Boost your site's visibility and ranking.
+- **🌙 Dark Mode:** Eye-friendly dark mode for better readability.
+- **📬 Contact Form:** Get in touch with me easily.
+
+## 🛠️ Technologies Used
+
+- **Frontend:** React, Tailwind CSS, Vite
+- **Deployment:** GitHub Pages
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 📬 Contact
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **Twitter:** [twitter.com/your-profile](https://twitter.com/your-profile)
+
+Made with ❤️ by [Fakhri Danial]
