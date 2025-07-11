@@ -19,9 +19,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-- **Email:** [Click here to email me](mailto:fakhridanial29@gmail.com)
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/fdaniall)
-- **Instagram:** [Follow me on Instagram](https://instagram.com/fdaniall)
+- **Email:** [fakhridanial29@gmail.com](mailto:fakhridanial29@gmail.com)
+- **LinkedIn:** [linkedin.com/in/fdaniall](https://www.linkedin.com/in/fdaniall)
+- **Instagram:** [instagram.com/fdaniall](https://instagram.com/fdaniall)
 
 ## 📈 GitHub Stats
 
