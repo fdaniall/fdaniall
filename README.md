@@ -1,12 +1,12 @@
 <div align="center">
-  
-# Fakhri Danial
 
-**Full Stack Developer**
+# Muhammad Fakhri Danial
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdaniall)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fdaniall)
+**Full Stack Developer** · Jakarta, Indonesia
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fakhridanial29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdaniall)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://fdaniall.com)
 
 </div>
 
@@ -14,32 +14,42 @@
 
 ## About
 
-A passionate developer focused on building modern web applications with clean, maintainable code. I enjoy solving complex problems and continuously learning new technologies.
+Full stack developer with 1+ year of experience building production systems across frontend and backend. I've developed React/Next.js dashboards and Node.js/Python backend services for manufacturing execution systems and CRM platforms deployed across 5+ production facilities, serving enterprise clients like McDonald's, KFC, and Richeese Factory.
+
+Currently focused on database optimization, role-based access control, and building responsive user interfaces.
+
+---
+
+## Experience
+
+**Backend Developer** · PT Ciomas Adisatwa · *Sep 2024 - Present*
+> Building backend services for poultry farm recording system managing 130+ operational units, integrating with SAP and Oracle for enterprise data synchronization.
+
+**Full Stack Developer Intern** · PT Japfa Comfeed Indonesia Tbk · *Feb 2024 - Feb 2025*
+> Built iMEXS Web Dashboard and Japfa Innovation platform from scratch using Django, serving enterprise manufacturing clients and 100+ internal teams.
+
+---
+
+## Featured Project
+
+### RajaWifi - ISP Management System
+*Full Stack Developer* · [Google Play](https://play.google.com) · [App Store](https://apps.apple.com)
+
+Production ISP management system currently managing **5,000+ registered customers** with automated subscription, billing, payment processing, and support ticket workflows.
+
+**Tech:** Flutter · React · Node.js (Express) · MySQL · Firebase
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Database & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, JavaScript, TypeScript |
+| **Frontend** | React.js, Next.js, Flutter, Tailwind CSS |
+| **Backend** | Node.js (Express), Django, Flask |
+| **Database** | MySQL, PostgreSQL |
+| **Tools** | Git, Firebase |
 
 ---
 
@@ -52,14 +62,15 @@ A passionate developer focused on building modern web applications with clean, m
 
 ---
 
-## License
+## Education
 
-This repository is licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
+**Bachelor of Computer Science** · Bina Nusantara University · *2021 - 2025*
+> GPA: 3.33/4.0
 
 ---
 
 <div align="center">
-  
-**Let's connect and build something great together.**
+
+*Open to remote opportunities and relocation*
 
 </div>
