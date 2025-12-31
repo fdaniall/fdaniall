@@ -53,19 +53,6 @@ Production ISP management system currently managing **5,000+ registered customer
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdaniall&theme=default" alt="GitHub Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdaniall&theme=default" alt="Top Languages by Repo" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fdaniall&theme=default" alt="GitHub Stats" height="160"/>
-</div>
-
----
-
 ## Education
 
 **Bachelor of Computer Science** · Bina Nusantara University · *2021 - 2025*
